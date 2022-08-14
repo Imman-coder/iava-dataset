@@ -1,0 +1,20 @@
+{
+    "Monday":[
+        {
+            "time":"",
+            "class_number":"",
+            "subject":"",
+            "subject_code":"",
+            "teacher":"",
+            "subject2":"",
+            "subject_code2":"",
+            "teacher2":"",
+            "notice":"",
+            "timeDividerText":"",
+            "isLab":false,
+            "isNotice":false,
+            "isclass":false,
+            "isTimeDivider":false
+        }
+    ]
+}
