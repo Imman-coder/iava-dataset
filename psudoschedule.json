@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "start_time": "1w1cs",
+      "end_time": "1w1ce",
+      "class_number": -1,
+      "subjects": [
+        {
+          "subject": "1w1c1s",
+          "subject_code": "1w1c1sc",
+          "teacher": "1w1c1t",
+          "teacher_full_name": "1w1c1tfn"
+        }
+      ],
+      "class_type": 0,
+      "notice": ""
+    },
+    {
+      "start_time": "1w2cs",
+      "end_time": "1w2ce",
+      "class_number": -1,
+      "subjects": [
+        {
+          "subject": "1w2c1s",
+          "subject_code": "1w2c1sc",
+          "teacher": "1w2c1t",
+          "teacher_full_name": "1w2c1tfn"
+        },
+        {
+          "subject": "1w2c2s",
+          "subject_code": "1w2c2sc",
+          "teacher": "1w2c2t",
+          "teacher_full_name": "1w2c2tfn"
+        }
+      ],
+      "class_type": 1,
+      "notice": "2w2c"
+    }
+  ],
+  [
+    {
+      "start_time": "2w1s",
+      "end_time": "2w1e",
+      "class_number": -1,
+      "subjects": [
+        {
+          "subject": "2w1c1s",
+          "subject_code": "2w1c1sc",
+          "teacher": "2w1c1t",
+          "teacher_full_name": "2w1c1tfn"
+        },
+        {
+          "subject": "2w1c1s",
+          "subject_code": "2w1c1sc",
+          "teacher": "2w1c2t",
+          "teacher_full_name": "2w1c1tfn"
+        }
+      ],
+      "class_type": 0,
+      "notice": ""
+    },
+    {
+      "start_time": "2w2cs",
+      "end_time": "2w2ce",
+      "class_number": -1,
+      "subjects": [
+        {
+          "subject": "2w2c1s",
+          "subject_code": "2w2c1sc",
+          "teacher": "2w2c1t",
+          "teacher_full_name": "2w2c1tfn"
+        }
+      ],
+      "class_type": 1,
+      "notice": "2w2c"
+    }
+  ]
+]
